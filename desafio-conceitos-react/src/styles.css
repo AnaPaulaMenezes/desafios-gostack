@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  background-color: #7159c1;
+}
+
+div {
+  margin: 20px;
+  
+}
+
+
+div li {
+  display: flex ;
+  align-items: center;
+  background-color: #FFF;
+  border-radius: 7px;
+  padding: 10px;
+
+}
+
+div li + li {
+  margin-top: 15px;
+
+}
+
+button {
+  background: #7159c1;
+  color: #fff;
+  border: 0;
+  padding: 10px 15px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+div li button {
+  margin: 0 15px;
+  background: #ca4949;
+}
+
+label{
+  padding: 5px;
+  font-size: 15px;
+}
+
+input{
+  margin: 10px;
+  height: 25px;
+  font-size: 15px;
+}
+
+form{
+  margin:5px !important;
+  padding: 0px;
+ 
+}
+
+.divNewRepositorie{
+  border: 1px solid #FFF;
+  border-radius: 7px;
+  flex: 1;
+  background-color: #FFF;
+  padding: 10px;
+
+}
+
+.tech{
+  font-size: 12;
+  font-weight: "bold";
+  margin-right: 10;
+  background-color: #04d361;
+  color: #fff;
+  display: block;
+  padding: 5px;
+  margin: 5px;
+  flex-Direction: "row";
+  
+}
