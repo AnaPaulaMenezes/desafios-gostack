@@ -1,5 +1,5 @@
 <h2>Sobre</h2>
-<p>Segundo desafio do bootcamp, consistindo em criar o frontend para a aplicação cadastro, edição, listagem e remoção de repositórios.</p>
+<p>Segundo desafio do bootcamp, consistindo em criar o frontend para a aplicação cadastro, listagem e remoção de repositórios.</p>
 
 <h2>Pré-Requisitos</h2>
 <ul>
