@@ -38,7 +38,7 @@
   </li>
 
 <li>
-    Para criar um transação faça uma requisição POST para a rota "localhost:3333/transactions" enviando como parâmetro body um json no seguinte formato:
+    Para criar um transação faça uma requisição POST para a rota "localhost:3333/transactions" enviando como parâmetro body um JSON no seguinte formato:
    
    ```bash
     {
