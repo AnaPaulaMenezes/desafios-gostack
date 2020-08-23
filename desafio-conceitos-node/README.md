@@ -37,7 +37,7 @@
    ```
   </li>
   <li>
-    Para criar um repósitorio faça uma requisição POST para a rota "/repositories" enviando como parâmetro body um json no seguinte formato:
+    Para criar um repósitorio faça uma requisição POST para a rota "localhost:3333/repositories" enviando como parâmetro body um json no seguinte formato:
    
    ```bash
     { 
@@ -52,13 +52,13 @@
     Para editar um repósitorio faça uma requisição PUT para a rota "localhost:3333/repositories/id_repositorio" enviando como parâmetro body um json no mesmo formato da rota de criação;
   </li>
   <li>
-    Para listar os repósitorios faça um requisição GET para a rota "localhost:3333/repositories";
+    Para listar os repósitorios faça uma requisição GET para a rota "localhost:3333/repositories";
   </li>
   <li>
-    Para adicionar likes a um repósitorio faça um requisição GET para a rota "localhost:3333/repositories/id_repositorio/likes"; 
+    Para adicionar likes a uma repósitorio faça um requisição GET para a rota "localhost:3333/repositories/id_repositorio/likes"; 
   </li>
   <li>
-    Para deletar  um repósitorio faça um requisição DELETE para a rota "localhost:3333/repositories/id_repositorio".
+    Para deletar  um repósitorio faça uma requisição DELETE para a rota "localhost:3333/repositories/id_repositorio".
   </li>
 </ul>
 
