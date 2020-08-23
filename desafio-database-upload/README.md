@@ -20,6 +20,7 @@
   
   </li>
   <li>Criar um banco de dados com o nome "gostack_desafio06";</li>
+  <li>Altere as configurações do banco de dados no arquivo "ormconfig.json", localizado na raiz do projeto;</li>
   <li>Rodar as migrations com o comando:
   
 
