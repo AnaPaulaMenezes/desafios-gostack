@@ -1,5 +1,5 @@
 <h2>Sobre</h2>
-<p>Primeiro desafio do bootcamp, consistindo em criar uma api em Node.js para cadastro, edição, listagem e remoção de repositórios.</p>
+<p>Primeiro desafio do bootcamp, consistindo em criar uma API em Node.js para cadastro, edição, listagem e remoção de repositórios.</p>
 
 <h2>Pré-Requisitos</h2>
 <ul>
