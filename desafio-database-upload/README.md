@@ -38,7 +38,7 @@
   </li>
 
 <li>
-    Para criar um transação faça uma requisição POST para a rota "localhost:3333/transactions" enviando como parâmetro body um json no seguinte formato:
+    Para criar um transação faça uma requisição POST para a rota "localhost:3333/transactions" enviando como parâmetro body um JSON no seguinte formato:
    
    ```bash
     {
@@ -56,7 +56,7 @@
   </li>
   
   <li>
-    Para importar uma série de transações faça uma requisição POST para a rota "localhost:3333/transactions/import" enviando um arquivo csv com as transações a serem importadas, no seguinte formato:
+    Para importar uma série de transações faça uma requisição POST para a rota "localhost:3333/transactions/import" enviando um arquivo "csv" com as transações a serem importadas, no seguinte formato:
     
       
       title, type, value, category
