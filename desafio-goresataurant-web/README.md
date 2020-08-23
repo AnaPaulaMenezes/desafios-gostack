@@ -48,8 +48,8 @@
 </ul>
 
 <br/>
-<img width="70%" src="https://github.com/AnaPaulaMenezes/desafios-gostack/blob/master/images/goRestaurant-dashboard-web.jpeg"  alt="GoRestaurant Dashboard"  />
-<img width="30%" src="https://github.com/AnaPaulaMenezes/desafios-gostack/blob/master/images/goRestaurant-addplate-web.jpeg" alt="GoRestaurant Novo Prato" />
+<img src="https://github.com/AnaPaulaMenezes/desafios-gostack/blob/master/images/goRestaurant-dashboard-web.jpeg"  alt="GoRestaurant Dashboard"  />
+
 
 
 
