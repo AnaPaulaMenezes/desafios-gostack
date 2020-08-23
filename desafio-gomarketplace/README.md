@@ -11,7 +11,7 @@
 <ul>
   <li>node.js;</li>
   <li>yarn;</li>
-  <li>SDK android</li>
+  <li>SDK android.</li>
 </ul>
 
 <h2>Como instalar</h2>
@@ -25,7 +25,8 @@
    ```
   
   </li>
-  <li>Inicie o backend da aplicação através do comando
+  <li>Inicie o backend da aplicação através do comando:
+   
    ```bash
    yarn json-server server.json -p 3333 
    ```
