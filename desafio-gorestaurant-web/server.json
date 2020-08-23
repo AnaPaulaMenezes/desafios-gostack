@@ -18,10 +18,10 @@
     },
     {
       "available": true,
-      "image": "TEST",
-      "name": "TESTE",
-      "price": "200",
-      "description": "TESTE",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda Italiana",
+      "price": "22.10",
+      "description": "Macarrão ao molho",
       "id": 4
     }
   ]
