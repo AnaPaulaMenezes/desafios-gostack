@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" alt="Logo GoMarketplace"/>
+<img src="https://github.com/AnaPaulaMenezes/desafios-gostack/blob/master/images/goMarketpalce-logo.jpeg" alt="Logo GoMarketplace"/>
 <p>Nesse desafio foi desenvolvida a aplicação Mobile "GoMarketplace".</p>
 </div>
 
@@ -39,9 +39,9 @@
   </li>
 
 </ul>
-<br/>
-<img src=""  alt=""  />
-<img src="" alt="" />
+
+
+<img width="40%" src="https://github.com/AnaPaulaMenezes/desafios-gostack/blob/master/images/goMarketplace.jpeg"  alt="GoMarketplace"  />   <img  width="40%" src="https://github.com/AnaPaulaMenezes/desafios-gostack/blob/master/images/goMarketplace-finish.jpeg" alt="GoMarketplace Finish" />
 
 
 
