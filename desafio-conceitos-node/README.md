@@ -49,7 +49,7 @@
    ```
   </li>
   <li>
-    Para editar um repósitorio faça uma requisição PUT para a rota "localhost:3333/repositories/id_repositorio" enviando como parâmetro body um json no mesmo formato da rota de criação;
+    Para editar um repósitorio faça uma requisição PUT para a rota "localhost:3333/repositories/id_repositorio" enviando como parâmetro body um JSON no mesmo formato da rota de criação;
   </li>
   <li>
     Para listar os repósitorios faça uma requisição GET para a rota "localhost:3333/repositories";
